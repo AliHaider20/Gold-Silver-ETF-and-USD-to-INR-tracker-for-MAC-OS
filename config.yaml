@@ -1,0 +1,8 @@
+{
+  "SIVR_threshold": 38,
+  "GLDM_threshold": 68,
+  "USD_to_INR_threshold": 87.0,
+  "USD_to_INR_alert": True,
+  "SIVR_alert": True,
+  "GLDM_alert": True,
+}
